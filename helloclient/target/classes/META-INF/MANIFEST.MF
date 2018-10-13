@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: helloclient
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: airadmin
+Implementation-Vendor-Id: com.helloclient
+Build-Jdk: 1.8.0_101
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/helloclient
+Created-By: Maven Integration for Eclipse
+
